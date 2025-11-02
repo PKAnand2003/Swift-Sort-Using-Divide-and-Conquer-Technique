@@ -9,7 +9,7 @@ This algorithm takes the first value (104) or second value (105) of the input ar
 This algorithm works for the values of different datatypes such as integer (both positive and negative integers), float, double, character and strings, and also with duplicate elements.
 The invention of this sorting technique that utilize the divide and conquer approach was driven by the need for faster and more efficient sorting algorithms as computers became more prevalent.<p>
 # Flowchart
-<img width="627" height="634" alt="Screenshot 2025-11-02 145053" src="https://github.com/user-attachments/assets/59494d3f-1974-4c0b-b705-a47ef8a3f938" />
+<img width="627" height="634" alt="Screenshot 2025-11-02 145053" src="https://github.com/user-attachments/assets/59494d3f-1974-4c0b-b705-a47ef8a3f938" /><p>
 # Detail Description
 The flowchart is divided into 11 steps depending on the stage of the process.
 Step 1(100) depicts the beginning of the program where the system boots up and loads the project.
